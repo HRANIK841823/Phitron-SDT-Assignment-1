@@ -1,0 +1,173 @@
+*{
+    background-color: #1A1A1A;
+}
+body{
+    font-family: "Inter", sans-serif;
+}
+nav img{
+    width: 10%;
+}
+
+nav> ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.navbar-nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+}
+/* Button Primary */
+.btn-primary{
+    border-radius: 4px; 
+    background: rgb(13, 202, 240);
+    color: rgb(255, 255, 255);
+    font-size: 19.4px;
+    font-weight: 400;
+    padding: 10px 20px;
+    border: none;
+    text-decoration: none;
+    margin-left: 10px;
+}
+/* Title */
+.title{
+    color: rgb(255, 255, 255);
+    font-size: 45.8px;
+    font-weight: 500;
+    text-align: center;
+}
+/* Banner Section */
+.banner-title{
+    color: rgb(0, 255, 255);
+    font-size: 70.7px;
+    font-weight: 700;
+    margin: 10px 0px;
+}
+.banner-quality{
+    color: rgb(255, 255, 255);
+    font-size: 23.6px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.des{
+    color: rgb(255, 255, 255);
+    font-size: 19.4px;
+    font-weight: 400;
+}
+.profile-pic{
+    width: 300px;
+    height: 375px;
+}
+footer h4{
+    color: rgb(255, 255, 255);
+    font-size: 17.2px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 20px;
+}
+footer h3{
+    color: rgb(255, 255, 255);
+    font-size: 19.4px;
+    font-weight: 400;
+    text-align: center;
+}
+/* Contact Me Section */
+.form{
+    box-sizing: border-box;
+    border: 1px solid rgb(128, 128, 128);
+    box-shadow: 4px 4px 8px 0px rgb(128, 128, 128);
+    margin-top: 30px;
+    width: 70%;
+    margin: 30px auto;
+    
+}
+.contact{
+    padding: 80px;
+}
+.contact input{
+    border: 2px solid rgb(118, 118, 118);
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 19.5px;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.contact textarea{
+    box-sizing: border-box;
+    border: 2px solid rgb(118, 118, 118);
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 19.5px;
+    font-weight: 400;
+}
+.contact-button{
+    background: rgb(108, 117, 125);
+    color: rgb(0, 255, 255);
+    font-size: 14px;
+    font-weight: 700;
+    width: 45%;
+    margin-bottom: 10px;
+    margin-bottom: 20px;
+}
+/* portfolio Button */
+.portfolio-button{
+    border-radius: 5px;
+    border: none;
+    background: rgb(108, 117, 125); 
+    font-size: 18.6px;
+    font-weight: 500;
+    padding: 5px;
+}
+.portfolio-text{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 400;
+}
+.portfolio-title{
+    
+    color: rgb(0, 255, 255);
+    font-size: 29.8px;
+    font-weight: 700;
+}
+.column1,.column2{
+    border: 1px solid rgb(128, 128, 128);
+}
+/*Education Title*/
+.e-title{
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.education-title{
+    color: rgb(0, 255, 255);
+    font-size: 48.7px;
+    font-weight: 700;
+}
+.education-des{
+    color: rgb(255, 255, 255);
+    font-size: 23.6px;
+    font-weight: 500;
+}
+.year{
+    color: rgb(255, 255, 255);
+    font-size: 17.2px;
+    font-weight: 400;
+}
+/* Carousel Item Image */
+.carousel-item img{
+    width: 500px;
+    height: 385px;
+    padding: 5px 10px 30px 20px;
+}
+
+
+
+
+   
+
+
+  
+
